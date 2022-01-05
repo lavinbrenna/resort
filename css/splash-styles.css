@@ -1,0 +1,13 @@
+/*style for splash screen*/
+
+body{
+    background: url('imgs/resort-splash-page.jpg');
+    display: fixed;
+    align-items: center;
+}
+a{
+    font-family: "Island Moments", cursive;
+    color: whitesmoke;
+    font-size: 28pt;
+    text-decoration: none;
+}
